@@ -1,0 +1,11 @@
+{
+    "name": "Form Filler",
+    "version": "0.1",
+    "description": "Helps you fill registration and SA Forms",
+    "manifest_version": 3,
+    "author": "Society Project Team",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "UNM Form Filler"
+    }
+}
